@@ -80,4 +80,4 @@ Log output of Eureka-Server:
 
 
 
-SCM Poll testing Jenkins
+SCM Poll testing
