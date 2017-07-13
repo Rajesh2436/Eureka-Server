@@ -77,7 +77,3 @@ Log output of Eureka-Server:
 
 > Registered instance TEST-SERVICE/<Full Computer Name>:test-service:7000 with status UP
 
-
-
-
-SCM Poll 
