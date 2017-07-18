@@ -1,0 +1,5 @@
+applications:
+- name: Eureka-Server-00001
+  disk_quota: 512M
+  instances: 1
+  memory: 512M
