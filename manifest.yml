@@ -1,0 +1,6 @@
+applications:
+- name: Eureka-Server-001
+  path: target\Eureka-Server-0.0.1-SNAPSHOT.jar
+  memory: 512M
+  disk_quota: 512M
+  instances: 1
